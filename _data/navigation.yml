@@ -1,8 +1,8 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Categories"
-    url: /categories/
+  - title: "Professional"
+    url: /professional/
   - title: "Tags"
     url: /tags/
   - title: "About"
