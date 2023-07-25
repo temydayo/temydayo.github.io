@@ -3,8 +3,8 @@ main:
     url: /research/
   - title: "Professional"
     url: /professional/
-  - title: "Tags"
-    url: /tags/
+  - title: "Projects"
+    url: /projects/
   - title: "About"
     url: /about/
   - title: "Personal"
