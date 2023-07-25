@@ -63,7 +63,7 @@ author:
   bio    : "I am a second year PhD student in Information Science at the University of Colorado Boulder. My main research interests lie in utilizing technology for philanthropic causes. Currently, I'm working on a diary study to examine the overwhelming nature of data collection experienced by frontline workers in nonprofit organizations.
   
   Prior to joining CU Boulder, I earned an MSc in Business Information Systems Management from Middlesex University, London."
-  links
+  links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
