@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: temydayo
 minimal_mistakes_skin: default
 search: true
 
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Temi Olorunsogo"
   avatar : "/assets/images/avatar.jpeg"
-  bio    : "I am a second year PhD student in Information Science at the University of Colorado Boulder. My main research interests lie in utilizing technology for philanthropic causes. Currently, I'm working on a diary study to examine the overwhelming nature of data collection experienced by frontline workers in nonprofit organizations.
+  bio    : "I am a third-year PhD student in Information Science at the University of Colorado Boulder. My main research interests lie in leveraging inclusive and responsible technologies to drive meaningful social impact, particularly how technology can be a force for good, uplifting communities, and transforming lives. I’m currently interviewing tech support professionals to uncover challenges in these collaborations and identify strategies to maintain their effective long-term partnerships. 
   
   Prior to joining CU Boulder, I earned an MSc in Business Information Systems Management from Middlesex University, London."
   links:
